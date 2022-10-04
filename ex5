@@ -1,0 +1,5 @@
+v=float(input("entrez un nbr:"))
+d=float(input("entrez un nbr:"))
+w=float(input("entrez un nbr:"))
+µ=v*d*w
+print(µ)
